@@ -1,0 +1,19 @@
+//Desenvolver um programa que pergunte um valor numérico inteiro e faça a exibição desse valor caso seja
+//divisível por 4 e 5. Não sendo divisível por 4 e 5, o programa deverá exibir a mensagem “Valor não é divisível por
+//4 e 5”.
+
+
+let num, resto4, resto5;
+
+console.log ("Informe um número: ");
+num = 20;
+console.log(`Valor inserido: ${num}`);
+
+resto4 = num % 4; //o resto da divisão de num por 4
+resto5 = num % 5; //o resto da divisão de num por 5
+
+if (resto4 === 0 && resto5 === 0) {
+    console.log (`${num} é divisível por 4 e 5`);
+} else {
+    console.log (`Valor não é divisível por 4 e 5`);
+}
