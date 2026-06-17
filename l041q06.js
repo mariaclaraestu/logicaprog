@@ -7,7 +7,7 @@ console.log("Informe o primeiro valor: ")
 num1 = 8
 console.log(`O primeiro valor: ${num1}`)
 
-console.log("Informe o seguno valor: ")
+console.log("Informe o segundo valor: ")
 num2 = 6
 console.log(`O segundo valor: ${num2}`)
 
