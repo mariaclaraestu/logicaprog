@@ -12,5 +12,6 @@ console.log ("Informe o terceiro valor inteiro") ;
 num3 = 7;
 
 media = (num1 + num2 + num3) / 3;
-
 console.log ("A média dos valores inseridos é "+ media);
+
+//Comentário realizado 17/06/26
