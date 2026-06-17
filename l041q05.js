@@ -25,3 +25,5 @@ if(media >= 5) {
 } else {
     console.log(`Sua média é ${media.toFixed(1)} e está baixo do esperado, você está de recuperação.`);
 }
+
+//Comentário inserido em 17/06/26
