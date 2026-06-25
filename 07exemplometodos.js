@@ -2,7 +2,7 @@ class Pessoa {
 
     nome;
     idade;
-    //Método construtor (ajuda a criar os objetos)
+    // Método construtor (ajuda a criar os objetos)
     constructor(nome, idade) {
 
         this.nome = nome;
